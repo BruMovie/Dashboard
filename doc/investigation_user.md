@@ -28,6 +28,9 @@ A.学生（88%）
 B.上班族（12%）  
 C.自由职业（0%） 
 ## 结果分析
+![](https://github.com/BuluMovie/Dashboard/blob/master/doc/images/%E5%AF%B9%E4%BD%BF%E7%94%A8%E8%BF%87%E7%9A%84%E8%B4%AD%E7%A5%A8%E8%BD%AF%E4%BB%B6%E8%BF%9B%E8%A1%8C%E8%AF%84%E4%BB%B7.png?raw=true)  
+![](https://github.com/BuluMovie/Dashboard/blob/master/doc/images/%E5%AF%B9%E5%9C%A8%E7%BA%BF%E8%B4%AD%E7%A5%A8%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%9C%9F%E5%BE%85.png?raw=true)  
+![](https://github.com/BuluMovie/Dashboard/blob/master/doc/images/%E5%AF%B9%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%9A%84%E7%9C%8B%E6%B3%95.png?raw=true)
 ## 总结
 1. 线上购票占大多数且大部分调查对象认为电影观众趋向于年轻化，说明电影购票小程序有很大的用户市场。  
 2. 虽然是新型的购票方式，但用户对小程序的未来还是给予很大期待的。  
