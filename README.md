@@ -1,5 +1,5 @@
 # Dashboard
-Records of ssMovie development progress.
+Records of LuMovie development progress.
 # Team & Division
 - 需求分析：all
 - 概要设计 & 详细设计：
@@ -9,7 +9,8 @@ Records of ssMovie development progress.
 # Documents
   - [About]()
   - [Team profile]()
-  - [Investigation]()
+  - [Investigation for user](https://github.com/BuluMovie/Dashboard/blob/master/doc/investigation_user.md)
+  - [Investigation for similar products]()
   - [Vision]()
   - [Product Backlog](https://github.com/BuluMovie/Dashboard/blob/master/doc/backlog.md)
   - meetings
