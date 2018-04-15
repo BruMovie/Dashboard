@@ -7,8 +7,8 @@ Records of ssMovie development progress.
   - 前端：
   - 后端： 
 # document
-  - [About]()
-  - [Team profile]()
+  - [About]() 
+  - [Team profile]() 
   - [Investigation]()
   - [Vision]()
   - [Product Backlog]()
