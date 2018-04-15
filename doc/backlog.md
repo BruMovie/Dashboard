@@ -1,4 +1,4 @@
-# Backlog for BuluMovie
+# Backlog for LuMovie
 
 | Iter | Title | Est (week) | How to preview | Imp |
 |------|:---:|:----------:|----------------|------|
