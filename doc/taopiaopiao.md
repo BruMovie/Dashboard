@@ -11,11 +11,11 @@
 	- 网友评论
 3. 软件截图
 <center>
-	<img src="https://brumovie.github.io/Dashboard/doc/images/taopiaopiao/1.png"> <img src="https://brumovie.github.io/Dashboard/doc/images/taopiaopiao/2.png"> 
+	<img src="https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/images/taopiaopiao/1.jpg?raw=true"> <img src="https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/images/taopiaopiao/2.jpg?raw=true"> 
 </center>
 <center>
-	<img src="https://brumovie.github.io/Dashboard/doc/images/taopiaopiao/3.png"> <img src="https://brumovie.github.io/Dashboard/doc/images/taopiaopiao/4.png"> 
+	<img src="https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/images/taopiaopiao/3.jpg?raw=true"> <img src="https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/images/taopiaopiao/4.jpg?raw=true"> 
 </center>
 <center>
-	<img src="https://brumovie.github.io/Dashboard/doc/images/taopiaopiao/5.png"> 
+	<img src="https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/images/taopiaopiao/5.jpg?raw=true"> 
 </center>
