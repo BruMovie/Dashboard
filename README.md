@@ -1,11 +1,12 @@
 # Dashboard
-Records of ssMovie development progress.
+Records of BruMovie development progress.
 # Team & Division
 - 需求分析：all
 - 概要设计 & 详细设计：
 - 编码 & 测试：
   - 前端：
-  - 后端： 
+  - 后端：曾庚涛
+
 # document
   - [About](https://brumovie.github.io/Dashboard/doc/About) 
   - [Team profile](https://brumovie.github.io/Dashboard/doc/TeamProfile) 
