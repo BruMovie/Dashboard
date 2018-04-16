@@ -18,11 +18,11 @@ Records of BruMovie development progress.
   - [Design](https://brumovie.github.io/Dashboard/doc/Design)
     - [UI design]()
       - [XX用例UI设计]()
-  - [生产规范与指南](https://brumovie.github.io/Dashboard/doc/CodingDirection)
-    - [XX 代码规范]()
+  - [生产规范与指南]()
+    - [XX 代码规范](https://brumovie.github.io/Dashboard/doc/About)
   - meetings
-    - [meeting(2018/03/11)](https://brumovie.github.io/Dashboard/doc/Meeting_2018_03_11)
-    - [meeting(2018/04/08)](https://brumovie.github.io/Dashboard/doc/Meeting_2018_04_08)
+    - [分工大会(2018/03/25)](https://brumovie.github.io/Dashboard/doc/Meeting_2018_03_25)
+    - [讨论系统的主要功能、拓展功能以及创新功能(2018/04/08)](https://brumovie.github.io/Dashboard/doc/Meeting_2018_04_08)
   - Tech/Work Report
-    - [15331012-xxxxxx](https://heimzeng.github.io/2018/04/15/Wechat-web-developing-tool-learning.html)
+    - [15331012-微信web开发者工具入门](https://heimzeng.github.io/2018/04/15/Wechat-web-developing-tool-learning.html)
     - [15331013-微信小程序新手入门宝典](https://joece.github.io/2018/04/15/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8%E5%AE%9D%E5%85%B8.html)

@@ -1,4 +1,4 @@
-# Backlog for LuMovie
+# Backlog for BruMovie
 
 | Iter | Title | Est (week) | How to preview | Imp |
 |------|:---:|:----------:|----------------|------|
