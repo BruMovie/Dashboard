@@ -46,9 +46,9 @@
 #### 3.4 用户人群属性
 ![Alt text](https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/images/%E4%BA%BA%E7%BE%A4%E5%B1%9E%E6%80%A7.png?raw=true)
 
-![Alt text](https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/images/%E5%B9%B4%E9%BE%84%E6%AF%94.png)
+![Alt text](https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/images/%E5%B9%B4%E9%BE%84%E6%AF%94.png?raw=true)
 
-![Alt text](https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/images/%E5%8C%BA%E5%9F%9F%E6%AF%94.png)
+![Alt text](https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/images/%E5%8C%BA%E5%9F%9F%E6%AF%94.png?raw=true)
 
 #### 3.5 目标用户分析
 ##### a. 普通用户
@@ -60,12 +60,12 @@
 
 #### 3.6 产品业务流程与结构
 ##### 产品业务流程
-![Alt text](https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/images/%E4%B8%9A%E5%8A%A1%E6%B5%81%E7%A8%8B.png)
+![Alt text](https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/images/%E4%B8%9A%E5%8A%A1%E6%B5%81%E7%A8%8B.png?raw=true)
  
  ---  
  
 ##### 产品结构图
-![Alt text](https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/images/产品结构.png)
+![Alt text](https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/images/产品结构.png?raw=true)
 
 ---
 ### 4. 商业模式
