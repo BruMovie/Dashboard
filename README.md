@@ -1,11 +1,11 @@
 # Dashboard
 Records of BruMovie development progress.
 # Team & Division
-- 需求分析：all
-- 概要设计 & 详细设计：
+- 需求分析：BZT
+- 概要设计 & 详细设计：ZGT、ZJC、BZT
 - 编码 & 测试：
-  - 前端：
-  - 后端：曾庚涛
+  - 前端：ZJC、BZT、GY、DXJ、
+  - 后端：ZGT、FDG、GHY
 
 # document
   - [About](https://brumovie.github.io/Dashboard/doc/About) 
@@ -14,12 +14,13 @@ Records of BruMovie development progress.
   - [Vision](https://brumovie.github.io/Dashboard/doc/Vision)
   - [Product Backlog](https://brumovie.github.io/Dashboard/doc/Backlog)
   - [Requirement specification](https://brumovie.github.io/Dashboard/doc/RequirementSpecification)
-    - [Usecase Diagram]()
+    - [Usecase Diagram](https://brumovie.github.io/Dashboard/doc/UseCases)
   - [Design](https://brumovie.github.io/Dashboard/doc/Design)
     - [UI design]()
       - [XX用例UI设计]()
   - [生产规范与指南]()
-    - [XX 代码规范](https://brumovie.github.io/Dashboard/doc/About)
+    - [代码规范](https://brumovie.github.io/Dashboard/doc/CodingDirection)
+    - [UI规范](https://brumovie.github.io/Dashboard/doc/UIDemo)
   - meetings
     - [分工大会(2018/03/25)](https://brumovie.github.io/Dashboard/doc/Meeting_2018_03_25)
     - [讨论系统的主要功能、拓展功能以及创新功能(2018/04/08)](https://brumovie.github.io/Dashboard/doc/Meeting_2018_04_08)

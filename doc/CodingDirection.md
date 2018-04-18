@@ -1,0 +1,2 @@
+# 代码规范
+参照[谷歌开源项目风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/naming/)
