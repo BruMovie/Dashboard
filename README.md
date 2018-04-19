@@ -14,7 +14,7 @@ Records of BruMovie development progress.
   - [Vision](https://brumovie.github.io/Dashboard/doc/Vision)
   - [Product Backlog](https://brumovie.github.io/Dashboard/doc/Backlog)
   - [Requirement specification](https://brumovie.github.io/Dashboard/doc/RequirementSpecification)
-    - [Usecase Diagram](https://brumovie.github.io/Dashboard/doc/UseCases)
+    - [Usecase Diagram](https://brumovie.github.io/Dashboard/doc/UsecaseDiagram)
   - [Design](https://brumovie.github.io/Dashboard/doc/Design)
     - [UI design]()
       - [XX用例UI设计]()
