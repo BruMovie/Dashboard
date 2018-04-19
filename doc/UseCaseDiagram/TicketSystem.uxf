@@ -93,8 +93,8 @@ halign=left</panel_attributes>
   <element>
     <id>UMLUseCase</id>
     <coordinates>
-      <x>190</x>
-      <y>830</y>
+      <x>200</x>
+      <y>730</y>
       <w>120</w>
       <h>40</h>
     </coordinates>
@@ -253,11 +253,11 @@ Wechat Authentication</panel_attributes>
     <coordinates>
       <x>90</x>
       <y>230</y>
-      <w>120</w>
-      <h>640</h>
+      <w>130</w>
+      <h>540</h>
     </coordinates>
     <panel_attributes/>
-    <additional_attributes>10.0;10.0;100.0;620.0</additional_attributes>
+    <additional_attributes>10.0;10.0;110.0;520.0</additional_attributes>
   </element>
   <element>
     <id>UMLActor</id>
@@ -539,5 +539,27 @@ Wechat pay</panel_attributes>
     <panel_attributes>lt=.&gt;
 &lt;&lt;extends&gt;&gt;</panel_attributes>
     <additional_attributes>80.0;10.0;10.0;40.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>200</x>
+      <y>800</y>
+      <w>120</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Reward</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>90</x>
+      <y>230</y>
+      <w>130</w>
+      <h>610</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;110.0;590.0</additional_attributes>
   </element>
 </diagram>
