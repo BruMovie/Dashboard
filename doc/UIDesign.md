@@ -6,9 +6,7 @@
 #### ①用户打开应用，点击底部菜单栏"我的"，便可跳转到用户个人信息页面，页面设计如截图：
  
 <center>
- 
  <img width = 250 src = "https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/images/UI/mine1.png?raw=true"> <img width = 253 src = "https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/images/UI/mine2.png?raw=true">
-
 </center>
    
    - 在“我的”页面中，顶部蓝色区域，用于展示用户头像与用户名，作为一款小程序，自然是用于呈现所绑定的微信用户的头像与昵称
