@@ -8,12 +8,20 @@
  #### ①用户打开应用，点击底部菜单栏"我的"，便可跳转到用户个人信息页面，页面设计如截图：
 <center>
  
- <img width = 250 src = "https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/images/UI/mine1.jpg?raw=true"> <img width = 253 src = "https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/images/UI/mine2.jpg?raw=true">
+ <img width = 250 src = "https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/images/UI/mine1.png?raw=true"> <img width = 253 src = "https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/images/UI/mine2.png?raw=true">
 
 </center>
    
-   - 在“我的”页面中，顶部蓝色固定区域，用于展示用户头像与用户名，作为一款小程序，自然是用于呈现所绑定的微信用户的头像与昵称；
-   - 随后滑动区域第一部分是“我的订单”，在这里分别展示了用户的四类订单：即将观影、观影足迹、观影周边、观影评价;分别对应下单已支付且还未观影的订单、下单已支付且已观影的历史订单、下单已支付的观影周边订单（如：观影时的零食饮料、观影前后产生的周边购买订单）、下单已支付且已观影的影片评价
+   - 在“我的”页面中，顶部蓝色区域，用于展示用户头像与用户名，作为一款小程序，自然是用于呈现所绑定的微信用户的头像与昵称
+   
+   - 随后区域第一部分是“我的订单”，在这里分别展示了用户的四类订单：
+     
+     - 即将观影: 下单已支付或未支付，等待观影的订单
+     - 观影足迹: 下单已支付且已观影的历史订单
+     - 观影周边: 下单已支付的观影周边订单（如：观影时的零食饮料、观影前后产生的周边购买订单）
+     - 观影评价: 下单已支付且观影后填写了影片评价的订单
+     
+   - 
  
 #### ②在场次选择界面，可以看到电影的所有场次，点击场次之后，会显示电影院的座位，已经预定的位置会显示不一样的颜色，悬户可以点击没有被预定的座位进行选择，可以选择多个。点击确认购买后跳转到购买界面。
 
