@@ -6,8 +6,12 @@
 - 用例"我的" UI 设计
 ### ①用户打开应用，点击底部菜单栏"我的"，便可跳转到用户个人信息页面，页面设计如截图：
 <center>
- <img width = 250 src = "https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/images/UI/mine1.jpg?raw=true"> <img width = 250 src = "https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/images/UI/mine2.jpg?raw=true">
- </center>
+ 
+ <img width = 250 src = "https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/images/UI/mine1.jpg?raw=true"> <img width = 272 src = "https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/images/UI/mine2.jpg?raw=true">
+
+</center>
+ - 在“我的”页面中，顶部蓝色固定区域，用于展示用户头像与用户名，作为一款小程序，自然是用于呈现所绑定的微信用户的头像与昵称；
+ - 随后滑动区域第一部分是“我的订单”，在这里分别展示了用户的四类订单：
  
 ### ②在场次选择界面，可以看到电影的所有场次，点击场次之后，会显示电影院的座位，已经预定的位置会显示不一样的颜色，悬户可以点击没有被预定的座位进行选择，可以选择多个。点击确认购买后跳转到购买界面。
 
