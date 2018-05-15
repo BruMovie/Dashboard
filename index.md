@@ -15,7 +15,7 @@ Records of BruMovie development progress.
   - [Product Backlog](https://brumovie.github.io/Dashboard/doc/Backlog)
   - Requirement specification
     - [Usecase Diagram](https://brumovie.github.io/Dashboard/doc/UsecaseDiagram)
-    - [Use cases](https://brumovie.github.io/Dashboard/doc/Usecases)
+    - [Use cases](https://brumovie.github.io/Dashboard/doc/UsecasesActivityDiagram)
     - [Domain Model](https://brumovie.github.io/Dashboard/doc/DomainModel)
     - [State Model](https://brumovie.github.io/Dashboard/doc/StateModel)
     - [System Sequence Diagram](https://brumovie.github.io/Dashboard/doc/SystemSequenceDiagram)
