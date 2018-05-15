@@ -1,11 +1,10 @@
-﻿# Design
+# UI design
  ---
-
-## 1.UI design
 
 - **用例"我的" UI 设计**
 
  #### ①用户打开应用，点击底部菜单栏"我的"，便可跳转到用户个人信息页面，页面设计如截图：
+ 
 <center>
  
  <img width = 250 src = "https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/images/UI/mine1.png?raw=true"> <img width = 253 src = "https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/images/UI/mine2.png?raw=true">
