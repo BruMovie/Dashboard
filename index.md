@@ -19,8 +19,8 @@ Records of BruMovie development progress.
     - [Domain Model](https://brumovie.github.io/Dashboard/doc/DomainModel)
     - [State Model](https://brumovie.github.io/Dashboard/doc/StateModel)
     - [System Sequence Diagram](https://brumovie.github.io/Dashboard/doc/SystemSequenceDiagram)
-  - [Design](https://brumovie.github.io/Dashboard/doc/Design)
-    - UI design
+  - Design
+    - [UI design](https://brumovie.github.io/Dashboard/doc/UIDesign)
       - [XX用例UI设计]()
     - Database Design
       - [用户及权限系统数据库设计]()
