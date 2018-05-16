@@ -1,5 +1,7 @@
 # UI规范
 
+<a href="https://developers.weixin.qq.com/miniprogram/design/index.html">微信小程序官方设计指南</a>
+
 ### 字体字号
 
 | 字 | 大小 | 适用范围 |
