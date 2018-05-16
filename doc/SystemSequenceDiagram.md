@@ -10,3 +10,7 @@
 查询电影票的顺序图如下：
 
 ![](https://brumovie.github.io/Dashboard/doc/SystemSequenceDiagram/searchATicket.png)
+
+## Change A Ticket(by 15331089)
+更换或取消电影票的顺序图如下：
+![](https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/SystemSequenceDiagram/changeAticket.PNG?raw=true)
