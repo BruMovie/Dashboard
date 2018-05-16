@@ -4,3 +4,7 @@
 ## login (by 15331089)
 登录状态图如下：  
 ![](https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/StateModelDiagram/log_in_StateGraph.PNG?raw=true)
+
+## Book A Ticket(by 15331089)
+订购电影票状态图如下：  
+![](https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/StateModelDiagram/make_order_stateGraph.PNG?raw=true)
