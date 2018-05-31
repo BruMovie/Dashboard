@@ -1,7 +1,7 @@
 # Dashboard
 Records of BruMovie development progress.
 # Team & Division
-- 需求分析：BZT, ZGT, GY
+- 需求分析：ZGT, GY
 - 概要设计 & 详细设计：ZGT、ZJC、BZT
 - 编码 & 测试：
   - 前端：ZJC、BZT、GY、DXJ、
@@ -24,7 +24,7 @@ Records of BruMovie development progress.
       - [XX用例UI设计]()
     - Database Design
       - [用户及权限系统数据库设计]()
-      - [XX子系统数据库设计]()
+      - [订票系统数据库设计]()
       - [第三方数据库评审结果]()
     - API设计
       - [API设计总文档](https://brumovie.github.io/Dashboard/doc/APIDesign)
