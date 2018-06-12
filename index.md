@@ -8,37 +8,39 @@ Records of BruMovie development progress.
   - 后端：ZGT、FDG、GHY
 
 # document
-  - [About](https://brumovie.github.io/Dashboard/doc/About) 
-  - [Team profile](https://brumovie.github.io/Dashboard/doc/TeamProfile) 
-  - [Investigation](https://brumovie.github.io/Dashboard/doc/Investigation)
-  - [Vision](https://brumovie.github.io/Dashboard/doc/Vision)
-  - [Product Backlog](https://brumovie.github.io/Dashboard/doc/Backlog)
-  - Requirement specification
-    - [Usecase Diagram](https://brumovie.github.io/Dashboard/doc/UsecaseDiagram)
-    - [Use cases](https://brumovie.github.io/Dashboard/doc/UsecasesActivityDiagram)
-    - [Domain Model](https://brumovie.github.io/Dashboard/doc/DomainModel)
-    - [State Model](https://brumovie.github.io/Dashboard/doc/StateModel)
-    - [System Sequence Diagram](https://brumovie.github.io/Dashboard/doc/SystemSequenceDiagram)
-  - Design
-    - [UI design](https://brumovie.github.io/Dashboard/doc/UIDesign)
-      - [XX用例UI设计]()
-    - Database Design
-      - [用户及权限系统数据库设计](https://brumovie.github.io/Dashboard/doc/RBAC)
-      - [订票系统数据库设计](https://brumovie.github.io/Dashboard/doc/TicketSystemDB)
-      - [第三方数据库评审结果]()
-    - API设计
-      - [API设计总文档](https://brumovie.github.io/Dashboard/doc/APIDesign)
-  - 生产规范与指南
-    - [代码规范](https://brumovie.github.io/Dashboard/doc/CodingDirection)
-    - [UI规范](https://brumovie.github.io/Dashboard/doc/UIDemo)
-    - [REST API 设计规范](https://brumovie.github.io/Dashboard/doc/APIDesignDirection)
-  - meetings
+  - [1、About](https://brumovie.github.io/Dashboard/doc/About) 
+  - [2、Team profile](https://brumovie.github.io/Dashboard/doc/TeamProfile) 
+  - [3、Investigation](https://brumovie.github.io/Dashboard/doc/Investigation)
+  - [4、Vision](https://brumovie.github.io/Dashboard/doc/Vision)
+  - [5、Product Backlog](https://brumovie.github.io/Dashboard/doc/Backlog)
+  - 6、Requirement specification
+    - [6.1 Usecase Diagram](https://brumovie.github.io/Dashboard/doc/UsecaseDiagram)
+    - [6.2 Use cases](https://brumovie.github.io/Dashboard/doc/UsecasesActivityDiagram)
+    - [6.3 Domain Model](https://brumovie.github.io/Dashboard/doc/DomainModel)
+    - [6.4 State Model](https://brumovie.github.io/Dashboard/doc/StateModel)
+    - [6.5 System Sequence Diagram](https://brumovie.github.io/Dashboard/doc/SystemSequenceDiagram)
+    - [6.6 补充需求]()
+  - 7、Design
+    - [7.1 UI design](https://brumovie.github.io/Dashboard/doc/UIDesign)
+    - 7.2 Database Design
+      - [7.2.1 用户及权限系统数据库设计](https://brumovie.github.io/Dashboard/doc/RBAC)
+      - [7.2.2 订票系统数据库设计](https://brumovie.github.io/Dashboard/doc/TicketSystemDB)
+      - [7.2.3 第三方数据库评审结果]()
+    - [7.3 API设计](https://brumovie.github.io/Dashboard/doc/APIDesign)
+    - [7.4 Software Architecture Document]()
+    - [7.5 Usecase design]()
+      - 7.5.1 xxUsecaseDesign
+  - 8、生产规范与指南
+    - [8.1 代码规范](https://brumovie.github.io/Dashboard/doc/CodingDirection)
+    - [8.2 UI规范](https://brumovie.github.io/Dashboard/doc/UIDemo)
+    - [8.3 REST API 设计规范](https://brumovie.github.io/Dashboard/doc/APIDesignDirection)
+    - 8.4 逻辑架构到应用程序映射指南
+    - 8.5 物理架构云上部署 dock-compose.yml 文件编写与使用
+  - X1 meetings
     - [分工大会(2018/03/25)](https://brumovie.github.io/Dashboard/doc/Meeting_2018_03_25)
     - [讨论系统的功能(2018/04/08)](https://brumovie.github.io/Dashboard/doc/Meeting_2018_04_08)
-  - Tech/Work Report
+  - X2 Tech/Work Report
     - [15331012-微信web开发者工具入门](https://heimzeng.github.io/2018/04/15/Wechat-web-developing-tool-learning.html)
     - [15331013-微信小程序新手入门宝典](https://joece.github.io/2018/04/15/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8%E5%AE%9D%E5%85%B8.html)
-  - XX建模练习
-    - XX1 XX应用
-    - XX2 建模要求
-    - XX3 建模者答案与评价
+  - X3 Final Report
+    - 学号-title
