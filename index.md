@@ -24,7 +24,7 @@ Records of BruMovie development progress.
       - [XX用例UI设计]()
     - Database Design
       - [用户及权限系统数据库设计](https://brumovie.github.io/Dashboard/doc/RBAC)
-      - [订票系统数据库设计]()
+      - [订票系统数据库设计](https://brumovie.github.io/Dashboard/doc/TicketSystemDB)
       - [第三方数据库评审结果]()
     - API设计
       - [API设计总文档](https://brumovie.github.io/Dashboard/doc/APIDesign)

@@ -1,0 +1,208 @@
+<LMModel Align="68" DisplayFlags="0" LineColor="#000000" FillStyle="none" LineWidth="1" FontUnderline="0" FillColor="#ffffff" LineStyle="Solid" FontColor="#000000" FontPointSize="9" BackgroundColor="#ffffff" FontBold="0" BackgroundImagePlacement="0" FontItalic="0" ModificationDate="2018-06-12T21:34:32" TextFlag="2048" CreationDate="2018-06-12T21:02:10" BackgroundType="0" FontStrikeOut="0" Name="User-Role-Base-Permission-Control" BackgroundStyle="none" Version="2.2" NextOID="22" FontFamily="Adobe Devanagari" >
+ <LMEntityNormal width="118" x="93" TextField="2" Align="68" y="91" LineColor="#000000" FillStyle="Solid" LineWidth="1" Generate="1" FontUnderline="0" FillColor="#00ffff" LineStyle="Solid" FontColor="#000000" FontPointSize="9" OID="1" height="119" DefaultsLoaded="1" FontBold="0" FontItalic="0" TextFlag="2048" FontStrikeOut="0" Name="User" NextOID="6" FontFamily="Adobe Devanagari" >
+  <sink x="0.457627" y="0.94958" OID="1" />
+  <LMAttribute OID="2" Mandatory="1" >
+   <Uses Class="LMDataItem" Path="10" Name="UserName" />
+  </LMAttribute>
+  <LMAttribute OID="3" Identifier="1" Mandatory="1" >
+   <Uses Class="LMDataItem" Path="11" Name="UserId" />
+  </LMAttribute>
+  <LMAttribute OID="4" Identifier="1" Mandatory="1" >
+   <Uses Class="LMDataItem" Path="12" Name="UserPhone" />
+  </LMAttribute>
+  <LMIdentifier Primary="1" OID="5" Name="UserId" >
+   <Uses Class="LMAttribute" Path="1,3" Name="UserId" />
+  </LMIdentifier>
+ </LMEntityNormal>
+ <LMEntityNormal width="118" x="326" TextField="2" Align="68" y="92" LineColor="#000000" FillStyle="Solid" LineWidth="1" Generate="1" FontUnderline="0" FillColor="#00ffff" LineStyle="Solid" FontColor="#000000" FontPointSize="9" OID="2" height="119" DefaultsLoaded="1" FontBold="0" FontItalic="0" TextFlag="2048" FontStrikeOut="0" Name="Role" NextOID="7" FontFamily="Adobe Devanagari" >
+  <sink x="0.313559" y="0.92437" OID="1" />
+  <sink x="0.483051" y="0.907563" OID="2" />
+  <LMAttribute OID="3" Mandatory="1" >
+   <Uses Class="LMDataItem" Path="14" Name="RoleName" />
+  </LMAttribute>
+  <LMAttribute OID="4" Identifier="1" Mandatory="1" >
+   <Uses Class="LMDataItem" Path="15" Name="RoleId" />
+  </LMAttribute>
+  <LMAttribute OID="5" >
+   <Uses Class="LMDataItem" Path="16" Name="" />
+  </LMAttribute>
+  <LMIdentifier Primary="1" OID="6" Name="RoleId" >
+   <Uses Class="LMAttribute" Path="2,4" Name="RoleId" />
+  </LMIdentifier>
+ </LMEntityNormal>
+ <LMEntityNormal width="118" x="558" TextField="2" Align="68" y="95" LineColor="#000000" FillStyle="Solid" LineWidth="1" Generate="1" FontUnderline="0" FillColor="#00ffff" LineStyle="Solid" FontColor="#000000" FontPointSize="9" OID="3" height="119" DefaultsLoaded="1" FontBold="0" FontItalic="0" TextFlag="2048" FontStrikeOut="0" Name="Permission" NextOID="5" FontFamily="Adobe Devanagari" >
+  <sink x="0.347458" y="0.907563" OID="1" />
+  <LMAttribute OID="2" Mandatory="1" >
+   <Uses Class="LMDataItem" Path="17" Name="PerName" />
+  </LMAttribute>
+  <LMAttribute OID="3" Identifier="1" Mandatory="1" >
+   <Uses Class="LMDataItem" Path="18" Name="PerId" />
+  </LMAttribute>
+  <LMIdentifier Primary="1" OID="4" Name="PerId" >
+   <Uses Class="LMAttribute" Path="3,3" Name="PerId" />
+  </LMIdentifier>
+ </LMEntityNormal>
+ <LMEntityNormal width="118" x="196" TextField="2" Align="68" y="309" LineColor="#000000" FillStyle="Solid" LineWidth="1" Generate="1" FontUnderline="0" FillColor="#00ffff" LineStyle="Solid" FontColor="#000000" FontPointSize="9" OID="4" height="119" DefaultsLoaded="1" FontBold="0" FontItalic="0" TextFlag="2048" FontStrikeOut="0" Name="User-Role" NextOID="9" FontFamily="Adobe Devanagari" >
+  <sink x="0.542373" y="0.0420168" OID="3" />
+  <sink x="0.330508" y="0.10084" OID="4" />
+  <LMAttribute OID="5" Identifier="1" Mandatory="1" >
+   <Uses Class="LMDataItem" Path="19" Name="UserId" />
+  </LMAttribute>
+  <LMAttribute OID="6" Identifier="1" Mandatory="1" >
+   <Uses Class="LMDataItem" Path="20" Name="RoleId" />
+  </LMAttribute>
+  <LMIdentifier Primary="1" OID="7" Name="UserId" >
+   <Uses Class="LMAttribute" Path="4,6" Name="RoleId" />
+  </LMIdentifier>
+  <LMIdentifier Primary="1" OID="8" Name="RoleId" >
+   <Uses Class="LMAttribute" Path="4,6" Name="RoleId" />
+  </LMIdentifier>
+ </LMEntityNormal>
+ <LMEntityNormal width="118" x="448" TextField="2" Align="68" y="312" LineColor="#000000" FillStyle="Solid" LineWidth="1" Generate="1" FontUnderline="0" FillColor="#00ffff" LineStyle="Solid" FontColor="#000000" FontPointSize="9" OID="5" height="119" DefaultsLoaded="1" FontBold="0" FontItalic="0" TextFlag="2048" FontStrikeOut="0" Name="Role-Permission" NextOID="7" FontFamily="Adobe Devanagari" >
+  <sink x="0.449153" y="0.0588235" OID="1" />
+  <sink x="0.559322" y="0.0588235" OID="2" />
+  <LMAttribute OID="3" Identifier="1" Mandatory="1" >
+   <Uses Class="LMDataItem" Path="20" Name="RoleId" />
+  </LMAttribute>
+  <LMAttribute OID="4" Identifier="1" Mandatory="1" >
+   <Uses Class="LMDataItem" Path="18" Name="PerId" />
+  </LMAttribute>
+  <LMIdentifier Primary="1" OID="5" Name="PerId" >
+   <Uses Class="LMAttribute" Path="5,4" Name="PerId" />
+  </LMIdentifier>
+  <LMIdentifier Primary="1" OID="6" Name="RoleId" >
+   <Uses Class="LMAttribute" Path="5,3" Name="RoleId" />
+  </LMIdentifier>
+ </LMEntityNormal>
+ <LMRelationship BeginCardinality="0,n" TextField="2" Align="68" LineColor="#000000" FillStyle="Solid" LineWidth="1" EndArrowDirection="1072693248" EndArrowFlags="4" Generate="1" EndArrowType="3" FontUnderline="0" FillColor="#00ffff" LineStyle="Solid" FontColor="#000000" FontPointSize="9" OID="6" BeginArrowDirection="0" DefaultsLoaded="1" BeginArrowType="3" FontBold="0" Dominant="1" FontItalic="0" EndTruncate="1" TextFlag="2048" FontStrikeOut="0" Name="UserR1" EndCardinality="1,1" BeginTruncate="1" BeginArrowFlags="7" NextOID="6" Dependent="0" FontFamily="Adobe Devanagari" >
+  <point x="235" y="321" OID="1" SinkObjectOID="4" SinkOID="4" />
+  <point x="147" y="204" OID="2" SinkObjectOID="1" SinkOID="1" />
+  <TextHandle x="0.438356" y="0.439252" OID="3" />
+  <BeginRoleHandle x="-62" y="-33" OID="4" />
+  <EndRoleHandle x="-1" y="29" OID="5" />
+ </LMRelationship>
+ <LMRelationship BeginCardinality="0,n" TextField="2" Align="68" LineColor="#000000" FillStyle="Solid" LineWidth="1" EndArrowDirection="1072693248" EndArrowFlags="4" Generate="1" EndArrowType="3" FontUnderline="0" FillColor="#00ffff" LineStyle="Solid" FontColor="#000000" FontPointSize="9" OID="7" BeginArrowDirection="0" DefaultsLoaded="1" BeginArrowType="3" FontBold="0" Dominant="1" FontItalic="0" EndTruncate="1" TextFlag="2048" FontStrikeOut="0" Name="RoleR1" EndCardinality="1,1" BeginTruncate="1" BeginArrowFlags="7" NextOID="6" Dependent="0" FontFamily="Adobe Devanagari" >
+  <point x="501" y="319" OID="1" SinkObjectOID="5" SinkOID="1" />
+  <point x="383" y="200" OID="2" SinkObjectOID="2" SinkOID="2" />
+  <TextHandle x="0.438356" y="0.439252" OID="3" />
+  <BeginRoleHandle x="-62" y="-30" OID="4" />
+  <EndRoleHandle x="6" y="36" OID="5" />
+ </LMRelationship>
+ <LMRelationship BeginCardinality="0,n" TextField="2" Align="68" LineColor="#000000" FillStyle="Solid" LineWidth="1" EndArrowDirection="1072693248" EndArrowFlags="4" Generate="1" EndArrowType="3" FontUnderline="0" FillColor="#00ffff" LineStyle="Solid" FontColor="#000000" FontPointSize="9" OID="8" BeginArrowDirection="0" DefaultsLoaded="1" BeginArrowType="3" FontBold="0" Dominant="1" FontItalic="0" EndTruncate="1" TextFlag="2048" FontStrikeOut="0" Name="RoleR2" EndCardinality="1,1" BeginTruncate="1" BeginArrowFlags="7" NextOID="6" Dependent="0" FontFamily="Adobe Devanagari" >
+  <point x="260" y="314" OID="1" SinkObjectOID="4" SinkOID="3" />
+  <point x="363" y="202" OID="2" SinkObjectOID="2" SinkOID="1" />
+  <TextHandle x="0.438356" y="0.439252" OID="3" />
+  <BeginRoleHandle x="7" y="-53" OID="4" />
+  <EndRoleHandle x="-51" y="14" OID="5" />
+ </LMRelationship>
+ <LMRelationship BeginCardinality="0,n" TextField="2" Align="68" LineColor="#000000" FillStyle="Solid" LineWidth="1" EndArrowDirection="1072693248" EndArrowFlags="4" Generate="1" EndArrowType="3" FontUnderline="0" FillColor="#00ffff" LineStyle="Solid" FontColor="#000000" FontPointSize="9" OID="9" BeginArrowDirection="0" DefaultsLoaded="1" BeginArrowType="3" FontBold="0" Dominant="1" FontItalic="0" EndTruncate="1" TextFlag="2048" FontStrikeOut="0" Name="PerR1" EndCardinality="1,1" BeginTruncate="1" BeginArrowFlags="7" NextOID="6" Dependent="0" FontFamily="Adobe Devanagari" >
+  <point x="514" y="319" OID="1" SinkObjectOID="5" SinkOID="2" />
+  <point x="599" y="203" OID="2" SinkObjectOID="3" SinkOID="1" />
+  <TextHandle x="0.438356" y="0.439252" OID="3" />
+  <BeginRoleHandle x="47" y="-41" OID="4" />
+  <EndRoleHandle x="0" y="29" OID="5" />
+ </LMRelationship>
+ <Validation>
+  <Rule Name="Model name missing" Value="Error" />
+  <Rule Name="Model comment missing" Value="Warning" />
+  <Rule Name="Model description missing" Value="Information" />
+  <Rule Name="Model author missing" Value="Warning" />
+  <Rule Name="Rule name missing" Value="Error" />
+  <Rule Name="Rule code missing" Value="Warning" />
+  <Rule Name="Rule comment missing" Value="Warning" />
+  <Rule Name="Rule description missing" Value="Information" />
+  <Rule Name="Rule name duplicate" Value="Error" />
+  <Rule Name="Rule code duplicate" Value="Error" />
+  <Rule Name="Rule not used" Value="Warning" />
+  <Rule Name="Domain name missing" Value="Error" />
+  <Rule Name="Domain code missing" Value="Warning" />
+  <Rule Name="Domain comment missing" Value="Warning" />
+  <Rule Name="Domain description missing" Value="Information" />
+  <Rule Name="Domain name duplicate" Value="Error" />
+  <Rule Name="Domain code duplicate" Value="Error" />
+  <Rule Name="Domain type missing" Value="Error" />
+  <Rule Name="Domain type unknown" Value="Error" />
+  <Rule Name="Domain not used" Value="Warning" />
+  <Rule Name="Data Item name missing" Value="Error" />
+  <Rule Name="Data Item code missing" Value="Warning" />
+  <Rule Name="Data Item comment missing" Value="Warning" />
+  <Rule Name="Data Item description missing" Value="Information" />
+  <Rule Name="Data Item name duplicate" Value="Error" />
+  <Rule Name="Data Item code duplicate" Value="Error" />
+  <Rule Name="Data Item type missing" Value="Error" />
+  <Rule Name="Data Item type unknown" Value="Error" />
+  <Rule Name="Data Item not used" Value="Warning" />
+  <Rule Name="Entity name missing" Value="Error" />
+  <Rule Name="Entity code missing" Value="Warning" />
+  <Rule Name="Entity comment missing" Value="Warning" />
+  <Rule Name="Entity description missing" Value="Information" />
+  <Rule Name="Entity name duplicate" Value="Error" />
+  <Rule Name="Entity code duplicate" Value="Error" />
+  <Rule Name="Entity attribute missing" Value="Error" />
+  <Rule Name="Entity primary identifier missing" Value="Warning" />
+  <Rule Name="Association name missing" Value="Error" />
+  <Rule Name="Association code missing" Value="Warning" />
+  <Rule Name="Association comment missing" Value="Warning" />
+  <Rule Name="Association description missing" Value="Information" />
+  <Rule Name="Association name duplicate" Value="Error" />
+  <Rule Name="Association code duplicate" Value="Error" />
+  <Rule Name="Association link missing" Value="Error" />
+  <Rule Name="Inheritance name missing" Value="Error" />
+  <Rule Name="Inheritance code missing" Value="Warning" />
+  <Rule Name="Inheritance comment missing" Value="Warning" />
+  <Rule Name="Inheritance description missing" Value="Information" />
+  <Rule Name="Inheritance name duplicate" Value="Warning" />
+  <Rule Name="Inheritance code duplicate" Value="Warning" />
+  <Rule Name="Inheritance link missing" Value="Error" />
+  <Rule Name="Relationship name missing" Value="Error" />
+  <Rule Name="Relationship code missing" Value="Warning" />
+  <Rule Name="Relationship comment missing" Value="Warning" />
+  <Rule Name="Relationship description missing" Value="Information" />
+  <Rule Name="Relationship name duplicate" Value="Warning" />
+  <Rule Name="Relationship code duplicate" Value="Warning" />
+  <Rule Name="Relationship child entity missing" Value="Error" />
+  <Rule Name="Relationship parent entity missing" Value="Error" />
+  <Rule Name="Association Link name missing" Value="Error" />
+  <Rule Name="Association Link code missing" Value="Warning" />
+  <Rule Name="Association Link comment missing" Value="Warning" />
+  <Rule Name="Association Link description missing" Value="Information" />
+  <Rule Name="Association Link name duplicate" Value="Warning" />
+  <Rule Name="Association Link code duplicate" Value="Warning" />
+  <Rule Name="Association Link entity missing" Value="Error" />
+  <Rule Name="Association Link association missing" Value="Error" />
+  <Rule Name="Inheritance Link name missing" Value="" />
+  <Rule Name="Inheritance Link code missing" Value="" />
+  <Rule Name="Inheritance Link comment missing" Value="" />
+  <Rule Name="Inheritance Link description missing" Value="" />
+  <Rule Name="Inheritance Link name duplicate" Value="" />
+  <Rule Name="Inheritance Link code duplicate" Value="" />
+  <Rule Name="Inheritance Link entity missing" Value="Error" />
+  <Rule Name="Inheritance Link inheritance missing" Value="Error" />
+  <Rule Name="Attribute name missing" Value="Error" />
+  <Rule Name="Attribute code missing" Value="Warning" />
+  <Rule Name="Attribute comment missing" Value="Warning" />
+  <Rule Name="Attribute description missing" Value="Information" />
+  <Rule Name="Attribute is indentifier but not mandatory" Value="Error" />
+  <Rule Name="Attribute name duplicate" Value="Error" />
+  <Rule Name="Attribute code duplicate" Value="Error" />
+  <Rule Name="Identifier name missing" Value="Error" />
+  <Rule Name="Identifier code missing" Value="Warning" />
+  <Rule Name="Identifier comment missing" Value="Warning" />
+  <Rule Name="Identifier description missing" Value="Information" />
+  <Rule Name="Identifier name duplicate" Value="Error" />
+  <Rule Name="Identifier code duplicate" Value="Error" />
+  <Rule Name="Identifier attribute missing" Value="Error" />
+ </Validation>
+ <LMDataItem Length="100" DataType="VARCHAR" OID="10" Name="UserName" />
+ <LMDataItem DataType="INTEGER" OID="11" Name="UserId" />
+ <LMDataItem Length="15" DataType="VARCHAR" OID="12" Name="UserPhone" />
+ <LMDataItem OID="13" Name="RoleName" />
+ <LMDataItem Length="20" DataType="VARCHAR" OID="14" Name="RoleName" />
+ <LMDataItem DataType="INTEGER" OID="15" Name="RoleId" />
+ <LMDataItem OID="16" />
+ <LMDataItem Length="100" DataType="VARCHAR" OID="17" Name="PerName" />
+ <LMDataItem DataType="INTEGER" OID="18" Name="PerId" />
+ <LMDataItem DataType="INTEGER" OID="19" Name="UserId" />
+ <LMDataItem DataType="INTEGER" OID="20" Name="RoleId" />
+ <LMDataItem OID="21" />
+</LMModel>
