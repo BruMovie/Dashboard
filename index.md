@@ -4,8 +4,9 @@ Records of BruMovie development progress.
 - 需求分析：ZGT, GY
 - 概要设计 & 详细设计：ZGT、ZJC、BZT
 - 编码 & 测试：
-  - 前端：ZJC、BZT、GY、DXJ、
-  - 后端：ZGT、FDG、GHY
+  - 前端：ZJC、BZT、GHY
+  - 后端：ZGT、FDG
+  - 待定：GY、DXJ
 
 # document
   - [1、About](https://brumovie.github.io/Dashboard/doc/About) 
