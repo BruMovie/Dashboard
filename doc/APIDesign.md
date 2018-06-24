@@ -23,6 +23,8 @@ post user/login
 - return
 	- resultCode
 
+## 获取信息方面
+
 ### 获取影院信息
 get /cinemas/get?aeraId=xxx&districtId=xxx&gps=2223488888&movieid=xxx
 - return
@@ -51,6 +53,7 @@ get /seat/get?cinemaid=xxx&movieid=xxx&screeningsid=xxx
 	- count
 	- seats array
 
+## 订单方面
 ### 创建订单
 post /order/create
 - data
