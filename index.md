@@ -45,4 +45,4 @@ Records of BruMovie development progress.
     - [15331013-微信小程序新手入门宝典](https://joece.github.io/2018/04/15/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8%E5%AE%9D%E5%85%B8.html)
     - [15331012-小程序腾讯云wafer部署](https://heimzeng.github.io/2018/06/24/Wafer-GettingStart.html)
   - X3 Final Report
-    - 学号-title
+    - [15331012-布鲁电影报告](https://heimzeng.github.io/2018/06/30/BruMovie-Report.html)
