@@ -4,9 +4,9 @@ Records of BruMovie development progress.
 - 需求分析：ZGT, GY
 - 概要设计 & 详细设计：ZGT、ZJC、BZT
 - 编码 & 测试：
-  - 前端：ZJC、BZT、GHY
+  - 前端：ZJC、BZT、GHY、GY
   - 后端：ZGT、FDG
-  - 待定：GY、DXJ
+  - 待定：DXJ
 
 # document
   - [1、About](https://brumovie.github.io/Dashboard/doc/About) 
@@ -47,3 +47,4 @@ Records of BruMovie development progress.
     - [15331012-基于Wafer2的电影售票系统的后台开发](https://heimzeng.github.io/2018/06/30/Wafer2-Movie-Ticket-System.html)
   - X3 Final Report
     - [15331012-布鲁电影报告](https://heimzeng.github.io/2018/06/30/BruMovie-Report.html)
+    - [15331089-布鲁电影报告](https://gaoynui.github.io/finalReport/)
