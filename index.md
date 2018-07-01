@@ -9,10 +9,9 @@ Records of BruMovie development progress.
   - 待定：DXJ
 
 # 团队贡献率
+
 |学号|姓名首字母|需求分析贡献率|前端开发贡献率|后台开发贡献率|备注| 
-
 | --- | --- | --- | --- | --- | --- | 
-
 |15331012|ZGT|50%|0%|95%| | 
 
 # document
