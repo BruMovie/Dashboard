@@ -55,3 +55,4 @@ Records of BruMovie development progress.
   - X3 Final Report
     - [15331012-布鲁电影报告](https://heimzeng.github.io/2018/06/30/BruMovie-Report.html)
     - [15331089-布鲁电影报告](https://gaoynui.github.io/finalReport/)
+    - [15331013-布鲁电影报告](https://joece.github.io/2018/06/30/FinalReport-BruMovie.html)
