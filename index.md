@@ -14,6 +14,7 @@ Records of BruMovie development progress.
 | --- | --- | --- | --- | --- | --- | 
 |15331012|ZGT|50%|0%|95%| | 
 |15331013|ZJC|10%|60%|0%| | 
+|15331005|BZT|20%|40%|0%| | 
 
 # document
   - [1、About](https://brumovie.github.io/Dashboard/doc/About) 
