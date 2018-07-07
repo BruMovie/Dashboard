@@ -34,16 +34,19 @@ BruMovie是一个方便快捷的电影票订票系统，拥有简洁的UI，简�
 			- 确定代码规范
 - Iteration 2
 	- goals：实现产品基本功能  
-	- week 4
+	- week 4（2018/05/01）
 		- 基本任务：    
 			 - API设计
 			 - 对产品开发进行组内分工
-	- week 5
+	- week 5（2018/05/08）
 		- 基本任务：  
-		         - 程序设计
-	- week 6
+		         - 编程  
+	- week 6（2018/05/15）
 		- 基本任务：  
 		         - 完善week 5
+- Iteration 3  
+        - goals：  
+	- week 7
 
 
 ## App Showing
