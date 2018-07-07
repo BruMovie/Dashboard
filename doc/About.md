@@ -67,6 +67,7 @@ BruMovie是一个方便快捷的电影票订票系统，拥有简洁的UI，简�
 
 ## App Showing
 - 小程序二维码
+![主页](https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/images/App_ImgShow/appQRcode.png?raw=true)
 
 
 - 小程序截图
