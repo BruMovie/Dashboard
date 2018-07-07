@@ -31,5 +31,5 @@ Order
 
 ## 类图
 
-![类图]（https://raw.githubusercontent.com/BruMovie/Dashboard/gh-pages/doc/UsecaseDesign/%E7%B1%BB%E5%9B%BE.png）
+![类图](https://raw.githubusercontent.com/BruMovie/Dashboard/gh-pages/doc/UsecaseDesign/%E7%B1%BB%E5%9B%BE.png)
 
