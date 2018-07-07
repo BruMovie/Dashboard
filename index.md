@@ -50,7 +50,7 @@ Records of BruMovie development progress.
     - [8.1 代码规范](https://brumovie.github.io/Dashboard/doc/CodingDirection)
     - [8.2 UI规范](https://brumovie.github.io/Dashboard/doc/UIDemo)
     - [8.3 REST API 设计规范](https://brumovie.github.io/Dashboard/doc/APIDesignDirection)
-    - 8.4 逻辑架构到应用程序映射指南
+    - [8.4 逻辑架构到应用程序映射指南](https://github.com/BruMovie/Dashboard/blob/gh-pages/doc/%E9%80%BB%E8%BE%91%E6%9E%B6%E6%9E%84%E5%88%B0%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E6%98%A0%E5%B0%84%E6%8C%87%E5%8D%97.md)
     - 8.5 物理架构云上部署 dock-compose.yml 文件编写与使用
   - X1 meetings
     - [分工大会(2018/03/25)](https://brumovie.github.io/Dashboard/doc/Meeting_2018_03_25)
