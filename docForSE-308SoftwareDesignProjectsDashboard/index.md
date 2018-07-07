@@ -2,7 +2,6 @@
 Records of BruMovie development progress.
 
 # 目录
-- [安装包与《安装部署说明》](https://github.com/BruMovie/Dashboard/blob/gh-pages/docForSE-308SoftwareDesignProjectsDashboard/pages/BruMovie.pdf)
 - [《用户手册》](https://github.com/BruMovie/Dashboard/blob/gh-pages/docForSE-308SoftwareDesignProjectsDashboard/pages/BruMovie.pdf)
 - [源代码](https://github.com/BruMovie/BruMovie)
 - [《软件规格需求说明》（SRS）](https://brumovie.github.io/Dashboard/docForSE-308SoftwareDesignProjectsDashboard/pages/SRS)
