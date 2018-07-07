@@ -44,8 +44,7 @@ Records of BruMovie development progress.
       - [7.2.3 第三方数据库评审结果]()
     - [7.3 API设计](https://brumovie.github.io/Dashboard/doc/APIDesign)
     - [7.4 Software Architecture Document]()
-    - [7.5 Usecase design]()
-      - 7.5.1 xxUsecaseDesign
+    - [7.5 Usecase design](https://brumovie.github.io/Dashboard/doc/UsecaseDesign/UseCaseDesign)
   - 8、生产规范与指南
     - [8.1 代码规范](https://brumovie.github.io/Dashboard/doc/CodingDirection)
     - [8.2 UI规范](https://brumovie.github.io/Dashboard/doc/UIDemo)
