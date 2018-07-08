@@ -1,8 +1,6 @@
 # Dashboard
 Records of BruMovie development progress.
-# SE-308SoftwareDesignProjects入口
-### [SE-308SoftwareDesignProjectsDashboard](https://brumovie.github.io/Dashboard/docForSE-308SoftwareDesignProjectsDashboard/index)
-以下为系统分析与设计Dashboard
+
 # Team & Division
 - 需求分析：ZGT, GY
 - 概要设计 & 详细设计：ZGT、ZJC、BZT
