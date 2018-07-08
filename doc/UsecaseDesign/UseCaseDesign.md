@@ -28,13 +28,13 @@
 
   - 电影及电影院的搜索
 
-![1](https://raw.githubusercontent.com/BruMovie/Dashboard/gh-pages/doc/UsecaseDesign/%E9%A1%BA%E5%BA%8F%E5%9B%BE1.png)
+![1](https://raw.githubusercontent.com/BruMovie/Dashboard/gh-pages/doc/UsecaseDesign/%E9%A1%BA%E5%BA%8F%E5%9B%BE1.png?raw=true)
 
   - 下订单
 
-![2](https://raw.githubusercontent.com/BruMovie/Dashboard/gh-pages/doc/UsecaseDesign/%E9%A1%BA%E5%BA%8F%E5%9B%BE2.png)
+![2](https://raw.githubusercontent.com/BruMovie/Dashboard/gh-pages/doc/UsecaseDesign/%E9%A1%BA%E5%BA%8F%E5%9B%BE2.png?raw=true)
 
 ## 类图
 
-![类图](https://raw.githubusercontent.com/BruMovie/Dashboard/gh-pages/doc/UsecaseDesign/%E7%B1%BB%E5%9B%BE.png)
+![类图](https://raw.githubusercontent.com/BruMovie/Dashboard/gh-pages/doc/UsecaseDesign/%E7%B1%BB%E5%9B%BE.png?raw=true)
 
